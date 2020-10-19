@@ -1,0 +1,328 @@
+{
+  "streets": [
+    {
+      "name": "Maggie Ondruskove",
+      "stop": "Maggie Ondruskove",
+      "start": {
+        "x": 76,
+        "y": 187
+      },
+      "end": {
+        "x": 100,
+        "y": 390
+      }
+    },
+    {
+      "name": "Zuzany Hradilove",
+      "stop": "Zuzany Hradilove",
+      "start": {
+        "x": 100,
+        "y": 390
+      },
+      "end": {
+        "x": 251,
+        "y": 574
+      }
+    },
+    {
+      "name": "Kolejni",
+      "stop": "Kolejni",
+      "start": {
+        "x": 251,
+        "y": 574
+      },
+      "end": {
+        "x": 391,
+        "y": 681
+      }
+    },
+    {
+      "name": "Nadrazni",
+      "stop": "Nadrazni",
+      "start": {
+        "x": 391,
+        "y": 681
+      },
+      "end": {
+        "x": 542,
+        "y": 637
+      }
+    },
+    {
+      "name": "Namesti miru",
+      "stop": "Namesti miru",
+      "start": {
+        "x": 542,
+        "y": 637
+      },
+      "end": {
+        "x": 655,
+        "y": 507
+      }
+    },
+    {
+      "name": "Ceska",
+      "stop": "Ceska",
+      "start": {
+        "x": 655,
+        "y": 507
+      },
+      "end": {
+        "x": 755,
+        "y": 392
+      }
+    },
+    {
+      "name": "Masarykova",
+      "stop": "Masarykova",
+      "start": {
+        "x": 755,
+        "y": 392
+      },
+      "end": {
+        "x": 623,
+        "y": 194
+      }
+    },
+    {
+      "name": "Stefanikova",
+      "stop": "Stefanikova",
+      "start": {
+        "x": 623,
+        "y": 194
+      },
+      "end": {
+        "x": 696,
+        "y": 87
+      }
+    },
+    {
+      "name": "Slovanske Namesti",
+      "stop": "Slovanske Namesti",
+      "start": {
+        "x": 696,
+        "y": 87
+      },
+      "end": {
+        "x": 428,
+        "y": 75
+      }
+    },
+    {
+      "name": "Bratislavska",
+      "stop": "Bratislavska",
+      "start": {
+        "x": 428,
+        "y": 75
+      },
+      "end": {
+        "x": 221,
+        "y": 137
+      }
+    },
+    {
+      "name": "Pohorelicka",
+      "stop": "Pohorelicka",
+      "start": {
+        "x": 221,
+        "y": 137
+      },
+      "end": {
+        "x": 76,
+        "y": 187
+      }
+    },
+    {
+      "name": "Skacelova",
+      "stop": "Skacelova",
+      "start": {
+        "x": 696,
+        "y": 87
+      },
+      "end": {
+        "x": 755,
+        "y": 392
+      }
+    },
+    {
+      "name": "Klusackova",
+      "stop": "Klusackova",
+      "start": {
+        "x": 100,
+        "y": 390
+      },
+      "end": {
+        "x": 315,
+        "y": 339
+      }
+    },
+    {
+      "name": "Vyrobni",
+      "stop": "Vyrobni",
+      "start": {
+        "x": 315,
+        "y": 339
+      },
+      "end": {
+        "x": 221,
+        "y": 137
+      }
+    },
+    {
+      "name": "Informacni",
+      "stop": "Informacni",
+      "start": {
+        "x": 315,
+        "y": 339
+      },
+      "end": {
+        "x": 251,
+        "y": 574
+      }
+    },
+    {
+      "name": "Technologicka",
+      "stop": "Technologicka",
+      "start": {
+        "x": 400,
+        "y": 521
+      },
+      "end": {
+        "x": 391,
+        "y": 681
+      }
+    },
+    {
+      "name": "Bozetechova",
+      "stop": "Bozetechova",
+      "start": {
+        "x": 400,
+        "y": 521
+      },
+      "end": {
+        "x": 251,
+        "y": 574
+      }
+    },
+    {
+      "name": "Dlouha",
+      "stop": "Dlouha",
+      "start": {
+        "x": 475,
+        "y": 319
+      },
+      "end": {
+        "x": 315,
+        "y": 339
+      }
+    },
+    {
+      "name": "Kolma",
+      "stop": "Kolma",
+      "start": {
+        "x": 400,
+        "y": 521
+      },
+      "end": {
+        "x": 475,
+        "y": 319
+      }
+    },
+    {
+      "name": "Namesti svobody",
+      "stop": "Namesti svobody",
+      "start": {
+        "x": 400,
+        "y": 521
+      },
+      "end": {
+        "x": 542,
+        "y": 637
+      }
+    },
+    {
+      "name": "Haskova",
+      "stop": "Haskova",
+      "start": {
+        "x": 655,
+        "y": 507
+      },
+      "end": {
+        "x": 475,
+        "y": 319
+      }
+    },
+    {
+      "name": "Cejl",
+      "stop": "Cejl",
+      "start": {
+        "x": 755,
+        "y": 392
+      },
+      "end": {
+        "x": 475,
+        "y": 319
+      }
+    },
+    {
+      "name": "Mendelova",
+      "stop": "Mendelova",
+      "start": {
+        "x": 475,
+        "y": 319
+      },
+      "end": {
+        "x": 623,
+        "y": 194
+      }
+    },
+    {
+      "name": "Bozeny Nemcove",
+      "stop": "Bozeny Nemcove",
+      "start": {
+        "x": 436,
+        "y": 171
+      },
+      "end": {
+        "x": 221,
+        "y": 137
+      }
+    },
+    {
+      "name": "28. Rijna",
+      "stop": "28. Rijna",
+      "start": {
+        "x": 436,
+        "y": 171
+      },
+      "end": {
+        "x": 428,
+        "y": 75
+      }
+    },
+    {
+      "name": "Tresnova",
+      "stop": "Tresnova",
+      "start": {
+        "x": 436,
+        "y": 171
+      },
+      "end": {
+        "x": 475,
+        "y": 319
+      }
+    },
+    {
+      "name": "Chrlicka",
+      "stop": "Chrlicka",
+      "start": {
+        "x": 623,
+        "y": 194
+      },
+      "end": {
+        "x": 436,
+        "y": 171
+      }
+    }
+  ]
+}

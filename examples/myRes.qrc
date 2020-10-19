@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>lines.json</file>
+        <file>stops.json</file>
+        <file>streets.json</file>
+        <file>vehicles.json</file>
+    </qresource>
+</RCC>

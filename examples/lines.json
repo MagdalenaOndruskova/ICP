@@ -1,0 +1,56 @@
+{
+    "lines": [
+        {
+          "id": 10,
+          "stops": [
+            "Maggie Ondruskove",
+            "Zuzany Hradilove",
+            "Bozetechova",
+            "Kolma",
+            "Tresnova",
+            "28. Rijna",
+            "Slovanske Namesti",
+            "Skacelova"
+          ]
+        },
+        {
+          "id": 20,
+          "stops": [
+            "Pohorelicka",
+            "Vyrobni",
+            "Dlouha",
+            "Kolma",
+            "Technologicka",
+            "Nadrazni",
+            "Namesti miru",
+            "Ceska",
+            "Skacelova"
+          ]
+        },
+        {
+          "id": 30,
+          "stops": [
+            "Klusackova",
+            "Informacni",
+            "Kolejni",
+            "Nadrazni",
+            "Namesti svobody",
+            "Kolma",
+            "Cejl",
+            "Masarykova",
+            "Stefanikova"
+          ]
+        },
+        {
+          "id": 40,
+          "stops": [
+            "Bratislavska",
+            "Bozeny Nemcove",
+            "Chrlicka",
+            "Mendelova",
+            "Haskova",
+            "Namesti miru"
+          ]
+        }
+      ]
+}

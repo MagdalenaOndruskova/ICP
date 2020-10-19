@@ -1,0 +1,194 @@
+{
+    "stops": [
+        {
+            "name": "Maggie Ondruskove",
+            "coor": {
+                "x": 87.75,
+                "y": 288
+            }
+        },
+        {
+            "name": "Zuzany Hradilove",
+            "coor": {
+                "x": 175.333,
+                "y": 481.667
+            }
+        },
+        {
+          "name": "Kolejni",
+          "coor":{
+            "x": 320,
+            "y": 627.333
+           }
+        },
+        {
+          "name": "Nadrazni",
+          "coor":{
+            "x": 466.333,
+            "y": 659
+           }
+        },
+        {
+          "name": "Namesti miru",
+          "coor":{
+            "x": 598.667,
+            "y": 571.333
+          }
+        },
+        {
+          "name": "Ceska",
+          "coor":{
+            "x": 705,
+            "y": 449
+          }
+        },
+        {
+          "name": "Masarykova",
+          "coor":{
+            "x": 688.667,
+            "y": 292.667
+          }
+        },
+        {
+          "name": "Stefanikova",
+          "coor":{
+            "x": 659.667,
+            "y": 140
+          }
+        },
+        {
+          "name": "Slovanske Namesti",
+          "coor":{
+            "x": 561,
+            "y": 81
+
+          }
+        },
+        {
+          "name": "Bratislavska",
+          "coor":{
+            "x": 324.333,
+            "y": 105.66
+          }
+        },
+        {
+          "name": "Pohorelicka",
+          "coor":{
+            "x": 148.66,
+            "y": 161.66
+          }
+        },
+        {
+          "name": "Skacelova",
+          "coor":{
+            "x": 725.667,
+            "y": 239.333
+          }
+        },
+        {
+          "name": "Klusackova",
+          "coor":{
+            "x": 207.33,
+            "y": 364
+          }
+        },
+        {
+          "name": "Vyrobni",
+          "coor":{
+            "x": 267.66,
+            "y": 237.33
+          }
+        },
+        {
+          "name": "Informacni",
+          "coor":{
+            "x": 283,
+            "y": 456
+          }
+        },
+        {
+          "name": "Technologicka",
+          "coor":{
+            "x": 395,
+            "y": 601
+          }
+        },
+        {
+          "name": "Bozetechova",
+          "coor":{
+            "x": 325.33,
+            "y": 547
+          }
+        },
+        {
+          "name": "Dlouha",
+          "coor":{
+            "x": 394.667,
+            "y": 328.667
+          }
+        },
+        {
+          "name": "Kolma",
+          "coor":{
+            "x": 437.333,
+            "y": 419.667
+          }
+        },
+        {
+          "name": "Namesti svobody",
+          "coor":{
+            "x": 470.667,
+            "y": 578.667
+          }
+        },
+        {
+          "name": "Haskova",
+          "coor":{
+            "x": 564.333,
+            "y": 412.667
+          }
+        },
+        {
+          "name": "Cejl",
+          "coor":{
+            "x": 614.333,
+            "y": 355.333
+          }
+        },
+        {
+          "name": "Mendelova",
+          "coor":{
+            "x": 549,
+            "y": 256.33
+          }
+        },
+        {
+          "name": "Bozeny Nemcove",
+          "coor":{
+            "x": 328,
+            "y": 153.66
+          }
+        },
+        {
+          "name": "28. Rijna",
+          "coor":{
+            "x": 432,
+            "y": 131
+          }
+        },
+        {
+          "name": "Tresnova",
+          "coor":{
+            "x": 455.5,
+            "y": 245
+          }
+        },
+        {
+          "name": "Chrlicka",
+          "coor":{
+            "x": 529,
+            "y": 182
+          }
+        }
+    ]
+}
