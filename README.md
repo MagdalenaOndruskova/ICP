@@ -1,8 +1,8 @@
 # ICP projekt
 ## MHD simulátor 
 **Autorky**: 
-- Magdaléna Ondrušková <xondru16@stud.fit.vutbr.cz>
-- Zuzana Hradilová <xhradi16@stud.fit.vutbr.cz>
+- Magdaléna Ondrušková <xondru16@stud.fit.vutbr.cz> 60%
+- Zuzana Hradilová <xhradi16@stud.fit.vutbr.cz> 40%
 
 **Programovací jazyk**: C++ 
 
